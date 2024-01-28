@@ -1,0 +1,6 @@
+$git push -u origin master
+
+
+$git remote -v  #check any remote connections to github
+$git remote add origin https://XXXXXXXXXXXX #link to remote repo
+
